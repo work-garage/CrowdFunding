@@ -1,5 +1,4 @@
-# CrowdFunding
-# Crowdfund – A Crowdfunding Smart Contract
+# 🤝 Crowdfunding – A Crowdfunding Smart Contract
 
 > **A crowdfunding contract built with Solidity**, designed to handle donations, deadlines, refunds, and withdrawals with clear outcome logic.
 
